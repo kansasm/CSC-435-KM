@@ -40,3 +40,7 @@ C:\Users\kansas\source\repos\CSC-435-KM\WebApps1\WebApps1\obj\Debug\WebApps1.csp
 C:\Users\kansas\source\repos\CSC-435-KM\WebApps1\WebApps1\obj\Debug\WebApps1.csproj.CoreCompileInputs.cache
 C:\Users\kansas\source\repos\CSC-435-KM\WebApps1\WebApps1\obj\Debug\WebApps1.dll
 C:\Users\kansas\source\repos\CSC-435-KM\WebApps1\WebApps1\obj\Debug\WebApps1.pdb
+C:\Users\kansas\source\repos\CSC-435-KM\WebApps1\WebApps1\bin\EntityFramework.dll
+C:\Users\kansas\source\repos\CSC-435-KM\WebApps1\WebApps1\bin\EntityFramework.SqlServer.dll
+C:\Users\kansas\source\repos\CSC-435-KM\WebApps1\WebApps1\bin\EntityFramework.xml
+C:\Users\kansas\source\repos\CSC-435-KM\WebApps1\WebApps1\bin\EntityFramework.SqlServer.xml
